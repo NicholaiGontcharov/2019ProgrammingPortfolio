@@ -1,4 +1,4 @@
-## Welcome to Nicholai Gontcharov Programming Portfolio 2019
+# Welcome to Nicholai Gontcharov Programming Portfolio 2019
 
 
 ## Contact Info
@@ -6,9 +6,86 @@ Email:  Nicholai.a.gontcharov@gmail.com
 Phone Number: 385-218-0761
 
 
-### First Semester Processing Calculator 
-#### Completed Date
+### First Semester 
+
+#### Processing Calculator 
+##### Completed Date
 
 Object oriented calculator with feature including 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+IMAGE
+
+LINK TO CAL
+
+#### Processing History of Computers
+##### Completed Date
+
+DESCRIPTION
+
+IMAGE
+
+LINK TO FILE
+
+#### Processing Draw Spaceship 
+##### Completed Date
+
+DESCRIPTION
+
+IMAGE
+
+LINK TO FILE
+
+#### Processing Making Cars
+##### Completed Date
+
+DESCRIPTION
+
+IMAGE
+
+LINK TO FILE
+
+#### Processing  Space Game
+##### Completed Date
+
+DESCRIPTION
+
+IMAGE
+
+LINK TO FILE
+
+#### 99 Bottles App  
+##### Completed Date
+
+DESCRIPTION
+
+IMAGE
+
+LINK TO FILE
+
+#### Number Guessing Game  
+##### Completed Date
+
+DESCRIPTION
+
+IMAGE
+
+LINK TO FILE
+
+#### Language Comparison
+##### Completed Date
+
+DESCRIPTION
+
+IMAGE
+
+LINK TO FILE
+
+#### Team Banking Project  
+##### Completed Date
+
+DESCRIPTION
+
+IMAGE
+
+LINK TO FILE
+
