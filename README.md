@@ -13,7 +13,7 @@ Phone Number: 385-218-0761
 
 Object oriented calculator with feature including. With this you can use basic preform basic calculations.
 
-IMAGE
+![Calc](https://github.com/NicholaiGontcharov/2019ProgrammingPortfolio/blob/master/Images/Calc.png?raw=true)
 
 LINK TO CAL
 
