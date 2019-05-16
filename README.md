@@ -54,6 +54,8 @@ IMAGE
 
 LINK TO FILE
 
+### Second Semester
+
 #### 99 Bottles App  
 ##### Completed Date
 
