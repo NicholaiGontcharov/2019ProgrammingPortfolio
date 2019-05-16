@@ -22,7 +22,9 @@ LINK TO CAL
 
 This is a program that allows the viewer to see a time line of maor histor computer advancements. When hovering over each period there will be a description bar that gives some details
 
-IMAGE
+![Computer](https://github.com/NicholaiGontcharov/2019ProgrammingPortfolio/blob/master/Images/computer.png?raw=true)
+
+
 
 LINK TO FILE
 
@@ -31,7 +33,9 @@ LINK TO FILE
 
 Object oriented. It draws a spaceship using basic draw functions such as lines and triangles 
 
-IMAGE
+![Ship](https://github.com/NicholaiGontcharov/2019ProgrammingPortfolio/blob/master/Images/Spaceship.png?raw=true)
+
+
 
 LINK TO FILE
 
@@ -40,7 +44,8 @@ LINK TO FILE
 
 This Program generates lots of car shapes with different colors, speeds and positions
 
-IMAGE
+![Cars](https://github.com/NicholaiGontcharov/2019ProgrammingPortfolio/blob/master/Images/Cars.png?raw=true)
+
 
 LINK TO FILE
 
@@ -50,7 +55,7 @@ LINK TO FILE
 This is a Space shooter game just like asteroid. In this there is a spaceship that shoots falling asteroids.  
 
 
-IMAGE
+![Game](https://github.com/NicholaiGontcharov/2019ProgrammingPortfolio/blob/master/Images/Spacegame.png?raw=true)
 
 LINK TO FILE
 
@@ -62,7 +67,7 @@ LINK TO FILE
 This Program was made in Eclipse and its main function is counting down to 1 going along with the song 99 bottle of root beer on the wall
 
 
-IMAGE
+![99](https://github.com/NicholaiGontcharov/2019ProgrammingPortfolio/blob/master/Images/99.png?raw=true)
 
 LINK TO FILE
 
